@@ -58,13 +58,19 @@ print(f"Predicted Value:{pre}")
 
 ```
 ## Output:
-![1](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/4dd0e997-6f45-43c7-bcf9-6dd9f97aec8a)
+![ml 1](https://github.com/KavinilavanDK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870429/835057df-c475-4852-9fd5-4c62c1977d6e)
 
-![2](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/bc40bc45-454f-4fbd-908f-0337cb95beb2)
+![ml 2](https://github.com/KavinilavanDK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870429/805adeb3-99a7-4c02-baa2-cca33c6dc80e)
 
-![3](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/20a1d598-778c-4ea8-96a0-78a46f6b654e)
-![4](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/25d3eccd-e27c-407c-9895-f366418cfb24)
-![5](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/a7bf3690-87d3-4382-beba-a65456ed35aa)
-![last](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/59aa7d0c-69f7-45c5-9dd9-d62aec3f310c)
+![ml 3](https://github.com/KavinilavanDK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870429/18c47293-016b-423a-bb86-9a7c6b10660b)
+
+![ml 4](https://github.com/KavinilavanDK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870429/00507ea1-a8fa-4941-a692-d3815c2ed880)
+
+![ml 5](https://github.com/KavinilavanDK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870429/e60e342f-7625-4ae0-9191-06b3b5e151ee)
+
+![ml 6](https://github.com/KavinilavanDK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870429/54b09571-9023-47d7-813c-1d3c54442632)
+
+
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
